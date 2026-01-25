@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'appsbyv/name-dev',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '39f6b7a214d0e34fba4cfe4dc4fc0b67ff06fcfd',
+        'pretty_version' => 'dev-copilot/add-ssh-key-manager-api',
+        'version' => 'dev-copilot/add-ssh-key-manager-api',
+        'reference' => '657246d3dc07c36df4f5c851cbcbdb20878e9064',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'appsbyv/name-dev' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '39f6b7a214d0e34fba4cfe4dc4fc0b67ff06fcfd',
+            'pretty_version' => 'dev-copilot/add-ssh-key-manager-api',
+            'version' => 'dev-copilot/add-ssh-key-manager-api',
+            'reference' => '657246d3dc07c36df4f5c851cbcbdb20878e9064',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
